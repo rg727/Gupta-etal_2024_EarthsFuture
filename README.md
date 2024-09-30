@@ -1,34 +1,19 @@
 [![DOI](https://zenodo.org/badge/265254045.svg)](https://zenodo.org/doi/10.5281/zenodo.10442485)
 
-<!-- Get rid of the metarepo instructions (the two sections below this) once you're done. -->
+# Gupta-etal_2024_EarthsFuture
 
-# metarepo
-## [Check out the website for instructions](https://immm-sfa.github.io/metarepo)
-`metarepo` is short for meta-repository, a GitHub repository that contains instructions to reproduce results in a published work. This repo is a template for creating your own metarepo.
+Rohini S. Gupta <sup>1\*</sup>, Scott Steinschneider<sup>1</sup>,  and Patrick M. Reed<sup>2</sup>
 
-## Purpose
-A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility. This repository should contain references to all minted data and software as well as any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
+<sup>1 </sup> Department of Biological and Environmental Engineering, Cornell University, Ithaca, NY
+<sup>2 </sup>  School of Civil and Environmental Engineering, Cornell University, Ithaca, NY
 
-<!-- Get rid of the metarepo instructions (the two sections above this) once you're done. -->
-
-# lastname-etal_year_journal
-
-**your Paper Title here (once published, include a link to the text)**
-
-First Last<sup>1\*</sup>, First Last<sup>1</sup>,  and First Last<sup>1, 2</sup>
-
-<sup>1 </sup>Pacific Northwest National Laboratory, Richland, WA, USA.
-
-<sup>2 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, Washington, DC, USA
-
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  rg727@cornell.edu
 
 ## Abstract
-_your abstract here_
+California faces cycles of drought and flooding that are projected to intensify, but these extremes may impact water users across the state differently due to the region’s natural hydroclimate variability and complex institutional framework governing water deliveries. To assess these risks, this study introduces a novel exploratory modeling framework informed by paleo- and climate-change based scenarios to better understand how impacts propagate through California’s complex water system. A stochastic weather generator, conditioned on tree-ring data, produces a large ensemble of daily weather sequences conditioned on drought and flood conditions under the Late Renaissance Megadrought period (1550-1580 CE). Regional climate changes are applied to this weather data and drive hydrologic projections for the Sacramento, San Joaquin, and Tulare Basins. The resulting streamflow ensembles are used in an exploratory stress test using the California Food-Energy-Water System model (CALFEWS), a highly resolved, daily model of water storage and conveyance throughout California. Results show that megadrought conditions lead to unprecedented reductions in inflows and storage at major California reservoirs. Both junior and senior water rights holders experience multi-year periods of curtailed water deliveries and complete drawdowns of groundwater assets. When megadrought dynamics are combined with climate change, risks for unprecedented depletion of reservoir storage and sustained curtailment of water deliveries across multiple years emerge. Asymmetries in risk emerge depending on water source, rights, and access to groundwater banks.  
 
 ## Journal reference
-_your journal reference_
-
+Gupta, R. S., Steinschneider, S., Reed, P.M. (In Review). Exploring Diverse Stakeholder Vulnerabilities in the California Water System under the Late Renaissance Megadrought and Climate Change. Earth's Future
 ## Code reference
 References for each minted software release for all code involved.  
 
