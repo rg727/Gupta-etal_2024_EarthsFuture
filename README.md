@@ -22,7 +22,7 @@ All code to reproduce the results/figures is found in this repository or is link
 ## Data reference
 
 ### Input data and Output Data
-Gupta, R.S., Steinschneider, S., Reed, P.M. (2024). Gupta-et-al_2024_EarthsFuture (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/2345933
+Gupta, R.S., Steinschneider, S., Reed, P.M. (2024). Gupta-et-al_2024_EarthsFuture (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/2458138
 
 
 ## Contributing modeling software
